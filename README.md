@@ -54,6 +54,14 @@ Estas são as **tags válidas** que podem ser digitadas no campo de entrada:
 
 ---
 
+## 🔗 Como visualizar o projeto
+
+Você pode acessar o site pelo vercel:
+
+👉 [**Clique aqui para visualizar**](https://javascript-assincrono-base.vercel.app/)
+
+---
+
 ## ⚙️ Como rodar
 
 1️⃣ Clone o repositório:
